@@ -3,7 +3,6 @@ Unity ML-Agents Tennis Environment
 
 
 ## Untrained Agent
-![Untrained]<img src='images/random-tennis-gif', align='center'>
 ![Untrained](images/random-tennis.gif)
 
 ## Trained Agent
